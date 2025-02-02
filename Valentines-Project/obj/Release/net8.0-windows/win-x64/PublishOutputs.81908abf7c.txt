@@ -1,0 +1,7 @@
+C:\Users\archi\OneDrive\Desktop\valentines-project\Valentines-Project.pdb
+C:\Users\archi\OneDrive\Desktop\valentines-project\D3DCompiler_47_cor3.dll
+C:\Users\archi\OneDrive\Desktop\valentines-project\PenImc_cor3.dll
+C:\Users\archi\OneDrive\Desktop\valentines-project\PresentationNative_cor3.dll
+C:\Users\archi\OneDrive\Desktop\valentines-project\vcruntime140_cor3.dll
+C:\Users\archi\OneDrive\Desktop\valentines-project\wpfgfx_cor3.dll
+C:\Users\archi\OneDrive\Desktop\valentines-project\Valentines-Project.exe
